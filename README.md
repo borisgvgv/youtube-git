@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
     6. git log (muestra todas las actualizaciones creadas)
     7. git branch (muestra todas las ramas creadas)
     8. git commit --amend (editar título de la última actualización / para salir scape :wq!)
-    9. git checkout b nombre-de-la-rama (cea una rama de trabajo)
+    9. git checkout -b nombre-de-la-rama (cea una rama de trabajo)
     10. git checkout master (volver a rama master)
     11. git branch -d nombre-de-la-rama-a-borrar (borrar rama)
     12. git push (agrega cambios a repositorio github)
