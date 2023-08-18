@@ -11,11 +11,11 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
     7. git branch (muestra todas las ramas creadas)
     8. git commit --amend (editar título de la última actualización / para salir scape :wq!)
     9. git checkout -b nombre-de-la-rama (cea una rama de trabajo)
-    10. git merge nombre-de-la-rama (fusiona la rama con el main)
-    10. git checkout master (volver a rama main)
-    11. git branch -d nombre-de-la-rama-a-borrar (borrar rama)
-    12. git push (agrega cambios a repositorio github)
-    13. git commit -am (es como hacer git add. y git commit -m al mismo tiempo)
+    10. git merge nombre-de-la-rama (fusiona la rama creada con el main)
+    11. git checkout master (volver a rama main)
+    12. git branch -d nombre-de-la-rama-a-borrar (borrar rama)
+    13. git push (agrega cambios a repositorio github)
+    14. git commit -am (es como hacer git add. y git commit -m al mismo tiempo)
   
 
 
