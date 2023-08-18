@@ -1,6 +1,6 @@
 # Heroes
 
-1 . Batman
-2 . Superman
-3 . Robin
-4 . Hemman
+1. Batman
+2. Superman
+3. Robin
+4. Hemman
