@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
     11. git branch -d nombre-de-la-rama-a-borrar (borrar rama)
     12. git push (agrega cambios a repositorio github)
     13. git commit -am (es como hacer git add. y git commit -m al mismo tiempo)
-    14.
+  
 
 
