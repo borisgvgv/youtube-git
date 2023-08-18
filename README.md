@@ -10,6 +10,6 @@
 7. git commit --amend (editar título de la última actualización / para salir scape :wq!)
 8. git checkout -b rama-heroes (cea una rama de trabajo)
 9. git checkout main
-10. git branch -d rama-heroes
+10. git branch -d nombre-de-la-rama (borrar rama)
 11. git push
 
