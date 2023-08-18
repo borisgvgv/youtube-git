@@ -1,7 +1,7 @@
 # Comandos útiles de GIT
 
 1. git init
-2. git add . 
+2. git add . (añadir cambios)
 3. git reset .
 4. git commit -m
 5. git checkout -- .
