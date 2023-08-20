@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=iT4UOkyI09k
      git merge nombre-de-la-rama (fusiona la rama creada con el main)
      git checkout master (volver a rama main)
      git branch -d nombre-de-la-rama-a-borrar (borrar rama)
+     git rm archivo-a-borrar.ext (borra el archivo de la rama borrada)
      git reflog (buscar identificador de rama eliminada)
      git branch nombre-de-la-rama idntificador-de-rama-eliminada-anteriormente (Volver aañadir rama eliminada)
      git push (agrega cambios a repositorio github)
